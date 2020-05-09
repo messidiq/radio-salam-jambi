@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Radio Salam Jambi</string>
+    <string name="radio_channel_name">Radio Salam Jambi</string>
+    <string name="net_work_not_available">Terputus Dari Internet!</string>
+    <string name="app_url">Bantu Download Akhi/Ukhti Aplikasi Radio SalamJambi
+
+        https://play.google.com/store/apps/details?id=com.salam.jambi</string>
+    <string name="program_name_holder">Nama Program</string>
+    <string name="host_name_holder">Pengisi Acara</string>
+    <string name="program_time">12:30 pm</string>
+    <string name="recording_file_storage_directory">Radio Salam Jambi</string>
+    <string name="play">PLAY</string>
+    <string name="pause">PAUSE</string>
+    <string name="stop">STOP</string>
+
+    <string name="app_ad_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="interstitial_ad_unit_id">cca-app-pub-3940256099942544/1033173712</string>
+    <string name="radio_notification">radio_notification</string>
+
+</resources>
